@@ -1,0 +1,87 @@
+pertaman coba bukak diagram yang udah bibi buat tu bi, yang ada di draw.io tu bi
+itu b
+
+dari usecase dulu lh bi
+
+
+ini semua kan include bi, tau bibi beda include sama extend?
+
+gak tau bg
+
+jadi include tu case yang terhubung ke login, sedangkan extend tu case yang terhubung ke case lain bi
+jadi pertama, bibi ganti semua case yang tidak terhubung ke login menjadi extend bi
+yang abang blok itu semua extend bi, coba lh bibi ganti dulu semua menjadi extend :)
+
+posisinya dimana bg?
+posisinya disana juga boleh, atau seperti awak juga boleh bi. abang buat disana, biar ga jauh kali dari case induknya bi.
+okeyy bg
+
+udah tu bg?
+
+bg use ni harus sama dengan progra/ database? iya bi, harus sama dengan program dan databse bi. 
+
+kalau usecase tu harus sama dengan interface program = bg data periode bibi salah kayaknya, kayak mana salahnya bi. coba abang liat bi 
+bibi asal aja buat data periodenya bg wkwk, hehe coba bukak dulu bi
+buka apanya bg? data periode tu bi, kayak gimana bentuknya bi, abang ga tau bi
+data periode aja bibi ga ada bg yg ada data alternatif, kriteria, sub kriteria
+yaudah gpp tu bi, yang ada-ada aja kita buat dulu. lanjut usecase nya aja dulu bi.
+udah bibi edit tu bg, masih ada yg salah?
+masih bi, itu salahnya ga ada extend dalam extend bi. jadi yang 3 buah di bawah tu hapus aja bi. ( 3 buah yg mana bg?)
+bg teamviewer ni ga ada suarany? ga ada bi hehehe kelebihannya cuma bisa mengontrol laptop teman bi hehe beda dengan zoom, zoom hanya bisa menampilkan tapi bonusnya ada suara :)
+diam me bisu aja bg hehe
+
+kalau sequence harus dama dengan database program bi
+
+
+mengelola beranda ni tugas siapa bi? lebih melihat beranda aja bg ,gak ngapa-ngapain 
+
+akun bibi sebagai apa disini bi? bibi admin bg tu namanya ladyka febby 
+kalau pimpinan itu beda lagi loginnya bg. okey bi
+
+case ke 2 ni, yang mengelola data. data apa yang di kelola nya bi? mksdny bg? bg buka prefensi tu bg ada bobot dari ahp bg
+
+bi. berarti salah extend nya ni bi
+extend itu seharusnya ada, jika kita menekan case itu bi.
+sedangkan extend yang 3 ni, ada di menu samping bi. paham bibi? pusing yg ada bg heheh bentar
+
+bi. yang abang buat tu, ada paham bi? jadi bg setiap data itu dibaca apa aja yg ada di program? iya bi ,okey paham bbg. oke lanjut login ke pimpinan lagi bi. help bi, apa bg?
+tolong bibi keluarkan admin ini.
+ liat ni bg gini sistem ninya, jadi check box tu bibi bikin sesuai perintah pak dodi tapi ga ada fungsi bg wkwk
+jadi? kalau username dan passwordnya admin, di centang pimpinan masuknya ke admin juga bi? hehe, iya bg hehehe. hajar aja lh bi banyak kali gaya pak dodi disuruh bibi bikin kayak sisfo loginnya bg. heheh hajar aja bi, pokoknya skripsi ni siap
+heheh. emang bg wkwk di bilang program bibi gak multi user bg, kira* abg program bibi ni multi user ga? ini multi user ni bi, kan kalau username yang dimasukan beda. 
+hasil tampilan daskboard nya juga beda, nahkan bapak ni ngadi* aja bg. heheh biar aja lh bi. kita lanjut bi
+
+udah bi. tinggal bibi rapiin aja lagi ni :) bg yg extend tu bikinnya dibawah kriteria tu bg? terserah aja sebenarnya bi, cuman kalau di bawah tu:
+1. dia ga lebih penting dari usecase utama
+2. dia nampak seperti anak bagi usecase utama
+3. dia ga mengganggu include untuk ke login
+4. hanya masalah estetika dan tampilan aja bi hehehe
+
+jadi bibi bikin garis putus aja bg? iya bi
+untuk extend lagi bi
+
+jadi kita ambil contoh bagian pimpinan bi
+di bagian DATA PROFILE
+data profile include garis putus putus KE login
+Edit extend garis putus putus KE data profile. 
+
+paham bi? jadi garis putus*nya tambah extend bg?iya bi, sama kayak include bi, cuman arah nya beda, sama tulisannya EXTEND bi,
+ jadi arah tanda parah dari edit ke data profile bg?iya bi
+
+Iya bi
+gitu bg?
+
+ iya bi, nice :) yeaaaa
+, sesuaikan aja panjang garisnya lagi ya bi. jadiny pakai extend cuman 1 aja bg? eeh terus bi. maaf lupa bibi bg apa yg mau ditanya hehe heheh. gini aja lh. 
+kalau siap ngetik tu, kasih titik di ujung nya, terus enter ya bi.
+okey deh bg, lanjut bg.
+hehe lanjut lh buat extend nya dulu bi.
+di cetak itu pakai extend juga bg?.
+iya bi, semua itu bi, ada cetak, lihat, edit, hapus tambah, itu semua pakai extend bi.
+baik bg sip.
+:)
+emosi bibi bikin panahnya bg wkwk.
+
+
+
+
